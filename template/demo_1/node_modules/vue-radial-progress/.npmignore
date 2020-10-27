@@ -1,0 +1,7 @@
+node_modules
+*.log
+.jshintignore
+.jshintrc
+dist/build.js
+dist/build.js.map
+.tags*
