@@ -26,7 +26,7 @@ Please leave a star on our GitHub repo.
 Submit bugs and help us improve Stellar Admin Vue!
 Find us on [Twitter](https://twitter.com/bootstrapdash?lang=en), [Facebook](https://www.facebook.com/bootstrapdash/), [Instagram](https://www.instagram.com/bootstrapdash/?hl=en), [Behance](https://www.behance.net/bootstrapdash), [Pinterest](https://www.pinterest.com/bootstrapdash/), [Dribbble](https://dribbble.com/bootstrapdash), [LinkedIn](https://in.linkedin.com/in/bootstrapdash)
 
-Meticulously built at BootstrapDash. We hope you ❤ Stellar Admin Vue!
+Meticulously built at BootstrapDash. We hope you ❤  Stellar Admin Vue!
 ### Additional Information:
 
 #### Installation
