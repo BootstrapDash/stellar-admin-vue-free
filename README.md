@@ -15,13 +15,17 @@ Report your issues with as many details as you can provide and we’ll try to ge
 ### More from BootstrapDash
 Here are some of our most popular templates:
 
-.[StarAdmin Free Bootstrap Admin Template](https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template)
-.[PurpleAdmin Free Admin Template](https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template)
-.[MajesticAdmin Free Bootstrap Admin Template](https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template)
+- [StarAdmin Free Bootstrap Admin Template](https://github.com/BootstrapDash/StarAdmin-Free-Bootstrap-Admin-Template)
+
+- [PurpleAdmin Free Admin Template](https://github.com/BootstrapDash/PurpleAdmin-Free-Admin-Template)
+
+- [MajesticAdmin Free Bootstrap Admin Template](https://github.com/BootstrapDash/MajesticAdmin-Free-Bootstrap-Admin-Template)
+  
 ### Like what you see?
 Please leave a star on our GitHub repo.
 Submit bugs and help us improve Stellar Admin Vue!
 Find us on [Twitter](https://twitter.com/bootstrapdash?lang=en), [Facebook](https://www.facebook.com/bootstrapdash/), [Instagram](https://www.instagram.com/bootstrapdash/?hl=en), [Behance](https://www.behance.net/bootstrapdash), [Pinterest](https://www.pinterest.com/bootstrapdash/), [Dribbble](https://dribbble.com/bootstrapdash), [LinkedIn](https://in.linkedin.com/in/bootstrapdash)
+
 Meticulously built at BootstrapDash. We hope you ❤ Stellar Admin Vue!
 ### Additional Information:
 
